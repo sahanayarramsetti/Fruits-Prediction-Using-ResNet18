@@ -1,0 +1,9 @@
+torch==2.2.0
+torchvision==0.18.0
+numpy==1.25.0
+matplotlib==3.8.0
+Pillow==10.1.0
+jupyter==1.0.0
+
+Users can install all dependencies:
+    ***pip install -r requirements.txt***

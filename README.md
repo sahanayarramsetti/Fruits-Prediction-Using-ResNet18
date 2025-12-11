@@ -4,6 +4,15 @@ Fruit image classification using ResNet18 (PyTorch)
 
 This project uses a **ResNet18 deep learning model** (PyTorch) to classify different fruits such as apples, bananas, and oranges.
 
+## Features
+
+- Image preprocessing and augmentation
+- Training using **ResNet18**
+- Predicts fruit type from user-provided images
+- Interactive UI with HTML and CSS embedded in the notebook
+- Fully contained in a single `.ipynb` notebook
+
+
 ## 🧠 Model Details
 - Architecture: ResNet18 (pretrained on ImageNet)
 - Framework: PyTorch
